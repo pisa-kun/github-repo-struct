@@ -4,4 +4,6 @@
 - Release Please
 - Pull Request Template
 
-## test
+### CodeOwners
+参考
+https://qiita.com/FumiyaShibusawa/items/c7a3ff4d0793ca2d281f
